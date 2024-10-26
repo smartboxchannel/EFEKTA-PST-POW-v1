@@ -1,1 +1,1 @@
-# EFEKTA-PST-POW--v1
+# EFEKTA PST POW+ v1
