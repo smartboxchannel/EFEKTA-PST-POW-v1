@@ -12,5 +12,5 @@
 
 ![EFEKTA PST POW+](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-PST-POW-PLUS-v1/refs/heads/main/Images/003.png)
 
-![EFEKTA PST POW+](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-PST-POW-PLUS-v1/refs/heads/main/Images/004.png)
+![EFEKTA PST POW+](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-PST-POW-PLUS-v1/refs/heads/main/Images/005.png)
 
