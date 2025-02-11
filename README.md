@@ -1,4 +1,4 @@
-# EFEKTA PST POW+ v1
+# EFEKTA PST POW v1
 
 ![Contact liquid/gas pressure sensor EFEKTA PST POWE+ v1](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-PST-POW-PLUS-v1/refs/heads/main/Images/logo3.png) 
 
