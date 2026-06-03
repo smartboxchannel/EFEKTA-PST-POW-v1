@@ -1,6 +1,6 @@
 # EFEKTA PST POW V1
 
-Описание: http://efektalab.com/PST_DUO_v1/
+Описание: http://efektalab.com/PST_POW+_v1/
 
 Sprut.hub Wiki | Добавление кастомных шаблонов - https://clck.ru/362h5z
 
