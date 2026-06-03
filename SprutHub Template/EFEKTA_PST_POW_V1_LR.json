@@ -1,13 +1,13 @@
 {
   "name": "Датчик давления EFEKTA PST POW V1",
   "manufacturer": "EfektaLab",
-  "model": "EFEKTA_PST_POW_V1",
+  "model": "EFEKTA_PST_POW_V1_LR",
   "manufacturerIds": [
     "EfektaLab",
     "EfektaLab_for_Zigbee-Shop.ru"
   ],
   "modelIds": [
-    "EFEKTA_PST_POW_V1"
+    "EFEKTA_PST_POW_V1_LR"
   ],
   "catalogId": 0,
   "template": [
@@ -39,6 +39,12 @@
           "cluster": "0001_PowerConfiguration",
           "attribute": "0216_Custom",
           "zclDataType": "BOOLEAN"
+        },
+        {
+          "endpoint": 1,
+          "cluster": "0001_PowerConfiguration",
+          "attribute": "0236_Custom",
+          "zclDataType": "SIGNED_8_BIT_INTEGER"
         },
         {
           "endpoint": 1,
@@ -261,6 +267,29 @@
       "minValue": 10,
       "maxValue": 3600,
       "minStep": 1
+    },
+    {
+      "link": [
+        {
+          "endpoint": 1,
+          "cluster": "0001_PowerConfiguration",
+          "attribute": "0236_Custom"
+        }
+      ],
+      "name": "Мощность радио передатчика",
+      "description": "Чем выше мощность, тем выше энергопотребление, на максимальной мощности в 19dbm, потребление 100mA при передаче, при можности 4dbm потребление 50mA",
+      "type": "Integer",
+      "value": 19,
+      "values": [
+        {
+          "value": 4,
+          "name": "4dbm"
+        },
+        {
+          "value": 19,
+          "name": "19dbm"
+        }
+      ]
     },
     {
       "link": [
